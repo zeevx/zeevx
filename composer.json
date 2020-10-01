@@ -1,0 +1,54 @@
+{
+    "name": "zeevx/zeevx",
+    "description": "ZeevX Description",
+    "keywords": [
+        "zeevx",
+        "zeevx"
+    ],
+    "homepage": "https://github.com/zeevx/zeevx",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Adams Paul",
+            "email": "adamsohiani@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1",
+        "illuminate/support": "^6.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^4.0",
+        "phpunit/phpunit": "^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zeevx\\Zeevx\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Zeevx\\Zeevx\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "test": "vendor/bin/phpunit",
+        "test-coverage": "vendor/bin/phpunit --coverage-html coverage"
+
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Zeevx\\Zeevx\\ZeevxServiceProvider"
+            ],
+            "aliases": {
+                "Zeevx": "Zeevx\\Zeevx\\ZeevxFacade"
+            }
+        }
+    }
+}
