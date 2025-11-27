@@ -11,6 +11,6 @@ I am a results-oriented Senior Software Engineer with over six years of experien
 
 ## General Statistics
 
-[![Paul's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=zeevx&stroke=000000&background=fafafa&ring=14b8a6&fire=14b8a6&currStreakNum=4c9e5a&currStreakLabel=14b8a6&sideNums=4c9e5a&sideLabels=4c9e5a&dates=4c9e5a&hide_border=true)](https://github.com/zeevx)
+[![Paul's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=zeevx&stroke=4c9e5a&background=fafafa&ring=4c9e5a&fire=4c9e5a&currStreakNum=4c9e5a&currStreakLabel=4c9e5a&sideNums=4c9e5a&sideLabels=4c9e5a&dates=4c9e5a&hide_border=true)](https://github.com/zeevx)
 
 
